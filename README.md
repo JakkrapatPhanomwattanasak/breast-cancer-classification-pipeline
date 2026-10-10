@@ -1,5 +1,7 @@
 # Breast Cancer Classification Pipeline
 
+[คู่มือภาษาไทย: เรียนตั้งแต่ศูนย์ พร้อม What/Why/How และขั้นตอนลงมือทำ](docs/GUIDE_TH.md)
+
 A reproducible **educational binary classification benchmark** comparing a majority-class baseline, Logistic Regression, and Random Forest. It uses the breast cancer dataset bundled with scikit-learn, so the default run works offline. This benchmark is not a clinical diagnostic tool.
 
 ## Project preview
