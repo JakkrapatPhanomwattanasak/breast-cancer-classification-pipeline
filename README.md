@@ -2,6 +2,14 @@
 
 A reproducible **educational binary classification benchmark** comparing a majority-class baseline, Logistic Regression, and Random Forest. It uses the breast cancer dataset bundled with scikit-learn, so the default run works offline. This benchmark is not a clinical diagnostic tool.
 
+## Project preview
+
+[Open the public interactive demo](https://jakkrapat-project-lab.happy-bud-2264.chatgpt.site/#ml)
+
+![Actual model comparison and held-out confusion matrix from the classification experiment](docs/images/benchmark-results.png)
+
+Explore the recorded CV results and replay six held-out benchmark records in the browser using exported Logistic Regression parameters. Browser probabilities are checked against saved Python outputs. Full model training remains in the Python pipeline.
+
 ## Run locally
 
 Python 3.11+ (PowerShell):
